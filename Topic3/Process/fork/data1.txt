@@ -1,0 +1,7 @@
+total 28
+drwxrwxr-x 2 huynhld huynhld 4096 Th10  8 13:53 .
+drwxrwxr-x 3 huynhld huynhld 4096 Th10  7 11:53 ..
+-rw-rw-r-- 1 huynhld huynhld    0 Th10  8 13:53 data1.txt
+-rw-rw-r-- 1 huynhld huynhld  334 Th10  8 13:51 data2.txt
+-rwxrwxr-x 1 huynhld huynhld 9016 Th10  8 13:53 fork
+-rw-rw-r-- 1 huynhld huynhld 1513 Th10  8 13:53 fork.c
